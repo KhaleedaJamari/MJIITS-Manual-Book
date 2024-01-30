@@ -81,19 +81,19 @@ As shown in the student’s profile, assessments list as well as student’s mar
 
 
 2.2.2.1 	Assessment 1
-		Below is the marking form of assessment 1: Technical Report and its rubric for referral. The form overall 		mark is 40% and user may fill in the form with student’s overall technical report over 100%. The 40% total 		marks will be calculated automatically after user click “Save”.
+		Below is the marking form of assessment 1: Technical Report and its rubric for referral. The form overall mark is 40% and user may fill in the form with student’s overall technical report over 100%. The 40% total marks will be calculated automatically after user click “Save”.
 
 ![image](https://github.com/KhaleedaJamari/MJIITS-Manual-Book/assets/132395704/ba25656b-f663-427f-ac52-3ea6015ca26a)
 
 
 2.2.2.2 	Assessment 2
-		Below is the marking form of assessment 2: Industrial Training Supervisor Evaluation form, form upload 			document, and its rubric for referral. The form overall mark is 30% and 6% marks for each criterion of the 		evaluation. However, the assessment, is not available for university supervisor to 
+		Below is the marking form of assessment 2: Industrial Training Supervisor Evaluation form, form upload 	document, and its rubric for referral. The form overall mark is 30% and 6% marks for each criterion of the evaluation. However, the assessment, is not available for university supervisor to 
 
 ![image](https://github.com/KhaleedaJamari/MJIITS-Manual-Book/assets/132395704/27013e4e-9580-4bb9-b19e-e66129eaf1d8)
 
 
 2.2.2.3 	Assessment 3
-		Below is the marking form of assessment 3: MJIIT Supervisor Evaluation form, form upload document, and its 		rubric for referral. The form overall mark is 5% and user required to key in 2.5% marks for each criterion 		of the evaluation. The 5% total marks will be calculated automatically after user click “Save”.
+		Below is the marking form of assessment 3: MJIIT Supervisor Evaluation form, form upload document, and its rubric for referral. The form overall mark is 5% and user required to key in 2.5% marks for each criterion of the evaluation. The 5% total marks will be calculated automatically after user click “Save”.
 
 ![image](https://github.com/KhaleedaJamari/MJIITS-Manual-Book/assets/132395704/3ca4eec9-7356-4f7e-8ea1-d642a9b8c008)
 
@@ -101,13 +101,13 @@ As shown in the student’s profile, assessments list as well as student’s mar
 
 
 2.2.2.4 	Assessment 4
-		Below is the marking form of assessment 4: E-portfolio Evaluation form, form upload document, and its 			rubric for referral. The form overall mark is 5% and user required to key in 2.5% marks for each criterion 		of the evaluation. The 5% total marks will be calculated automatically after user click “Save”.
+		Below is the marking form of assessment 4: E-portfolio Evaluation form, form upload document, and its rubric for referral. The form overall mark is 5% and user required to key in 2.5% marks for each criterion of the evaluation. The 5% total marks will be calculated automatically after user click “Save”.
 
 ![image](https://github.com/KhaleedaJamari/MJIITS-Manual-Book/assets/132395704/4ada8e25-13a8-44d2-8bb4-8ea0cfd126c9)
 
 
 2.2.2.5 	Assessment 5
-		Below is the marking form of assessment 5: Log Book Evaluation form, form upload document, and its rubric 		for referral. The form overall mark is 20% and user required to key in 5% marks for each criterion of the 		evaluation. The 20% total marks will be calculated automatically after user click “Save”.
+		Below is the marking form of assessment 5: Log Book Evaluation form, form upload document, and its rubric for referral. The form overall mark is 20% and user required to key in 5% marks for each criterion of the evaluation. The 20% total marks will be calculated automatically after user click “Save”.
   
 ![image](https://github.com/KhaleedaJamari/MJIITS-Manual-Book/assets/132395704/1d848495-4435-49ca-b6fe-7c2549b627e7)
 
@@ -169,10 +169,10 @@ Continue on logging in as Admin or Coordinator, the dashboard will show as below
 1.	Click on User Management, then click on Coordinator menu. The page will be directed to page shown below.
 	![image](https://github.com/KhaleedaJamari/MJIITS-Manual-Book/assets/132395704/503f2e02-4a54-495f-ac8b-aec2a2ae4edc)
 	 
-2.	As an example, click on “Shahda Binti Hassan” coordinator and the page will be directed to the coordinator’s page 	as below.
+2.	As an example, click on “Shahda Binti Hassan” coordinator and the page will be directed to the coordinator’s page as below.
  	![image](https://github.com/KhaleedaJamari/MJIITS-Manual-Book/assets/132395704/08e33719-8b75-4257-a044-f43ffc9d97be)
 
-3.	In this module, profile picture process will be shown as profile update example. Click on “Choose File” and the 	File Explorer will be displayed. Choose a picture.
+3.	In this module, profile picture process will be shown as profile update example. Click on “Choose File” and the File Explorer will be displayed. Choose a picture.
  	![image](https://github.com/KhaleedaJamari/MJIITS-Manual-Book/assets/132395704/dbbea99e-2411-4539-98e2-7b9e3629a5cf)
 
 4.	Click “Open”
@@ -188,7 +188,7 @@ Continue on logging in as Admin or Coordinator, the dashboard will show as below
 	![image](https://github.com/KhaleedaJamari/MJIITS-Manual-Book/assets/132395704/6348434d-60f0-4eec-ba62-95e7d916d52d)
 	 
 2.	Click on the “Add” button.
-3.	Page shown below will be displayed.\
+3.	Page shown below will be displayed.
  	![image](https://github.com/KhaleedaJamari/MJIITS-Manual-Book/assets/132395704/cade7810-ffa6-4171-aa6d-d9d80e98061a)
 
 
@@ -265,14 +265,14 @@ Continue on logging in as Admin or Coordinator, the dashboard will show as below
 
 2.5.1.1.1	PASS GRADE
 3.	User will be directed to Overall Student’s Report as shown below.
-4.	Shown below the report with overall marks of student’s assessments and grade (PASS). The passing of overall 		assessments marks is 60% and above.
+4.	Shown below the report with overall marks of student’s assessments and grade (PASS). The passing of overall assessments marks is 60% and above.
 ![image](https://github.com/KhaleedaJamari/MJIITS-Manual-Book/assets/132395704/e391e157-11bf-4a91-b030-9877f8eec9cd)
 
  
 
 2.5.1.1.2 	FAIL GRADE
 3.	User will be directed to Overall Student’s Report as shown below.
-4.	Shown below the report with overall marks of student’s assessments and grade (PASS). The passing of overall 		assessments marks is 60% and above.
+4.	Shown below the report with overall marks of student’s assessments and grade (PASS). The passing of overall assessments marks is 60% and above.
  	![image](https://github.com/KhaleedaJamari/MJIITS-Manual-Book/assets/132395704/0f9668f3-d6eb-4c9e-99c5-e0a10dea56e5)
 
 
