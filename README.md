@@ -83,19 +83,19 @@ As shown in the student’s profile, assessments list as well as student’s mar
 2.2.2.1 	Assessment 1
 		Below is the marking form of assessment 1: Technical Report and its rubric for referral. The form overall 		mark is 40% and user may fill in the form with student’s overall technical report over 100%. The 40% total 		marks will be calculated automatically after user click “Save”.
 
-	![image](https://github.com/KhaleedaJamari/MJIITS-Manual-Book/assets/132395704/ba25656b-f663-427f-ac52-3ea6015ca26a)
+![image](https://github.com/KhaleedaJamari/MJIITS-Manual-Book/assets/132395704/ba25656b-f663-427f-ac52-3ea6015ca26a)
 
 
 2.2.2.2 	Assessment 2
 		Below is the marking form of assessment 2: Industrial Training Supervisor Evaluation form, form upload 			document, and its rubric for referral. The form overall mark is 30% and 6% marks for each criterion of the 		evaluation. However, the assessment, is not available for university supervisor to 
 
-		![image](https://github.com/KhaleedaJamari/MJIITS-Manual-Book/assets/132395704/27013e4e-9580-4bb9-b19e-e66129eaf1d8)
+![image](https://github.com/KhaleedaJamari/MJIITS-Manual-Book/assets/132395704/27013e4e-9580-4bb9-b19e-e66129eaf1d8)
 
 
 2.2.2.3 	Assessment 3
 		Below is the marking form of assessment 3: MJIIT Supervisor Evaluation form, form upload document, and its 		rubric for referral. The form overall mark is 5% and user required to key in 2.5% marks for each criterion 		of the evaluation. The 5% total marks will be calculated automatically after user click “Save”.
 
-		![image](https://github.com/KhaleedaJamari/MJIITS-Manual-Book/assets/132395704/3ca4eec9-7356-4f7e-8ea1-d642a9b8c008)
+![image](https://github.com/KhaleedaJamari/MJIITS-Manual-Book/assets/132395704/3ca4eec9-7356-4f7e-8ea1-d642a9b8c008)
 
 
 
@@ -103,13 +103,13 @@ As shown in the student’s profile, assessments list as well as student’s mar
 2.2.2.4 	Assessment 4
 		Below is the marking form of assessment 4: E-portfolio Evaluation form, form upload document, and its 			rubric for referral. The form overall mark is 5% and user required to key in 2.5% marks for each criterion 		of the evaluation. The 5% total marks will be calculated automatically after user click “Save”.
 
-		![image](https://github.com/KhaleedaJamari/MJIITS-Manual-Book/assets/132395704/4ada8e25-13a8-44d2-8bb4-8ea0cfd126c9)
+![image](https://github.com/KhaleedaJamari/MJIITS-Manual-Book/assets/132395704/4ada8e25-13a8-44d2-8bb4-8ea0cfd126c9)
 
 
 2.2.2.5 	Assessment 5
 		Below is the marking form of assessment 5: Log Book Evaluation form, form upload document, and its rubric 		for referral. The form overall mark is 20% and user required to key in 5% marks for each criterion of the 		evaluation. The 20% total marks will be calculated automatically after user click “Save”.
   
-		![image](https://github.com/KhaleedaJamari/MJIITS-Manual-Book/assets/132395704/1d848495-4435-49ca-b6fe-7c2549b627e7)
+![image](https://github.com/KhaleedaJamari/MJIITS-Manual-Book/assets/132395704/1d848495-4435-49ca-b6fe-7c2549b627e7)
 
 
 
